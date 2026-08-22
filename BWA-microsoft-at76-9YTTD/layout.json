@@ -1,0 +1,179 @@
+{
+  "content": [
+    {
+      "path": "MSFSLayoutGenerator.exe",
+      "size": 364544,
+      "date": 134288241236273724
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/livery.cfg",
+      "size": 279,
+      "date": 134318463916865493
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DECALS_1_ALBD.TIF.KTX2",
+      "size": 5592580,
+      "date": 134318461907813824
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DECALS_1_ALBD.TIF.KTX2.json",
+      "size": 127,
+      "date": 134318461907818812
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DECALS_2_ALBD.TIF.KTX2",
+      "size": 5592580,
+      "date": 134318461907868897
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DECALS_2_ALBD.TIF.KTX2.json",
+      "size": 127,
+      "date": 134318461907873898
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DETAILS_01_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461908046401
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DETAILS_01_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461908056431
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DETAILS_02_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461908231637
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_DETAILS_02_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461908241674
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_ENGINE_LEFT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461908414216
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_ENGINE_LEFT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461908421989
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_ENGINE_RIGHT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461908604303
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_ENGINE_RIGHT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461908614331
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_FUSELAGE_ROOT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461908789533
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_FUSELAGE_ROOT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461908794537
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_MIDDLE_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461908924229
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_MIDDLE_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461908929266
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_NOSE_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461909114669
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_NOSE_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461909124675
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_REAR_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461909249964
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_REAR_ALBD.PNG.KTX2.json",
+      "size": 22369796,
+      "date": 134318461909365086
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_RIVETS_ALBD.PNG.KTX2",
+      "size": 5592580,
+      "date": 134318461909415179
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_RIVETS_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461909425188
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_TAIL_ALBD.PNG.KTX2",
+      "size": 89478660,
+      "date": 134318461910306542
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_TAIL_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461910316544
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_WING_LEFT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134318461910461810
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_WING_LEFT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461910476908
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_WING_RIGHT_ALBD.PNG.KTX2",
+      "size": 5592580,
+      "date": 134318461910531998
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_WING_RIGHT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461910542031
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_WING_ROOT_ALBD.PNG.KTX2",
+      "size": 5592580,
+      "date": 134318461910587110
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/texture/ATR_72_600_AIRFRAME_WING_ROOT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134318461910597104
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/thumbnail/thumbnail.png",
+      "size": 520768,
+      "date": 134318461911142871
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/thumbnail/thumbnail_button.png",
+      "size": 520768,
+      "date": 134318461912209011
+    },
+    {
+      "path": "SimObjects/airplanes/microsoft_atr/liveries/microsoft/bwa_9YTTD/thumbnail/thumbnail_side.png",
+      "size": 520768,
+      "date": 134318461911648327
+    }
+  ]
+}
